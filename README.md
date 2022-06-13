@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dlgkdrb2
+- 👀 I’m interested in Java, Backend design
+- 🌱 I’m currently learning Java, csapp
+- 💞️ I’m looking to collaborate on ...
